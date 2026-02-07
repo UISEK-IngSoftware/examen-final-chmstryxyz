@@ -1,0 +1,12 @@
+#home-page {
+  --background: #f4f5f8;
+}
+
+ion-item {
+  --padding-start: 16px;
+  --padding-end: 16px;
+  --inner-padding-top: 8px;
+  --inner-padding-bottom: 8px;
+  margin-bottom: 5px;
+  border-radius: 8px;
+}
